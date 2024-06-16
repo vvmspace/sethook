@@ -1,6 +1,6 @@
 {
   "name": "sethook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "Set a Telegram webhook via npx",
   "repository": {
