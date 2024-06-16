@@ -32,4 +32,6 @@ npx sethook 123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
 
 This package is a simple CLI tool to set the Telegram Webhook for a bot. It uses the Telegram Bot API to set the webhook to the provided URL. If the URL is not provided, it will delete the webhook.
 
-# sethook
+## See also
+
+- [Netlify Telegram Webhook Template](https://github.com/vvmspace/netlify-telegram-webhook-template) - A template to create a Telegram bot webhook using Netlify Functions
